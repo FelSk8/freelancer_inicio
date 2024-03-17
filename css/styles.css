@@ -226,7 +226,7 @@ background-color: var(--secundario);
     padding: 2rem;
     border-radius: 2rem;
 }
-
+/** comentario de prueba**/
 .formulario fieldset {
     border: none;
 }
